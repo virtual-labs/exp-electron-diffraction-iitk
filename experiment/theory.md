@@ -1,4 +1,4 @@
-<h3>Theory</h3>
+
 Diffraction pattern is obtained when the aperture in the TEM is kept at the image plane of the objective lens. Here, a selected region can be utilized for the electron beam to diffract. It is interesting to point out here that the electron wavelengths are in the order of pm (pico-meters or ~order of 10-12 m). Considering that the interplanar spacing is the order of few Å (or ~0.3 nm), hence, the Bragg’s condition for diffraction (i.e., 2d Sinθ=nλ) is satisfied within 1° of diffraction angles. Or, in other words, the incident beam is almost parallel to the diffracting planes of the crystal. The direction of incident beam with respect to the crystal is provided by zone axis. In other words, zone axis denotes the axis that lies normal to the plane of diffraction. Or, where the dot product of zone axis with that of diffracting planes is zero.
 <br>
 The TEM microstructure captured via bright field imaging (Fig. aa) can be utilized to obtain the corresponding diffraction pattern. An amorphous region usually results a halo (Fig. 1b). Further, it may be pointed out that the symmetry of the crystal will result diffraction spots (if single crystal, Fig. 1c) or a ring pattern (if multi-crystals, usually nanocrystalline result the same). 
@@ -37,6 +37,6 @@ It may so happen that the material has texture and a certain orientation my go m
   <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
-Fig:Video on Electron Diffraction for various materials
+Video on Electron Diffraction for various materials
 
 
