@@ -1,6 +1,14 @@
-
-Diffraction pattern is obtained when the aperture in the TEM is kept at the image plane of the objective lens. Here, a selected region can be utilized for the electron beam to diffract. It is interesting to point out here that the electron wavelengths are in the order of pm (pico-meters or ~order of 10-12 m). Considering that the interplanar spacing is the order of few Å (or ~0.3 nm), hence, the Bragg’s condition for diffraction (i.e., 2d Sinθ=nλ) is satisfied within 1° of diffraction angles. Or, in other words, the incident beam is almost parallel to the diffracting planes of the crystal. The direction of incident beam with respect to the crystal is provided by zone axis. In other words, zone axis denotes the axis that lies normal to the plane of diffraction. Or, where the dot product of zone axis with that of diffracting planes is zero.
+<div><div style="float:left;width:55%;text-align: justify;text-justify: inter-word; margin-right:40px;">
+Diffraction pattern is obtained when the aperture in the TEM is kept at the image plane of the objective lens. Here, a selected region can be utilized for the electron beam to diffract. It is interesting to point out here that the electron wavelengths are in the order of pm (pico-meters or ~order of 10-12 m). Considering that the interplanar spacing is the order of few Å (or ~0.3 nm), hence, the Bragg’s condition for diffraction (i.e., 2d Sinθ=nλ) is satisfied within 1° of diffraction angles. Or, in other words, the incident beam is almost parallel to the diffracting planes of the crystal. The direction of incident beam with respect to the crystal is provided by zone axis. In other words, zone axis denotes the axis that lies normal to the plane of diffraction. Or, where the dot product of zone axis with that of diffracting planes is zero.</div>
+<div style="float:left;width:40%;border: solid 1 px black;">
+<video width="320" height="240" controls>
+  <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><br>Video on Electron Diffraction for various materials</div>
+</div>
+<div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
 <br>
+<div style ="text-align: justify;text-justify: inter-word;">
 The TEM microstructure captured via bright field imaging (Fig. aa) can be utilized to obtain the corresponding diffraction pattern. An amorphous region usually results a halo (Fig. 1b). Further, it may be pointed out that the symmetry of the crystal will result diffraction spots (if single crystal, Fig. 1c) or a ring pattern (if multi-crystals, usually nanocrystalline result the same). 
 <img src='images/fig8.PNG'><br/>
 Fig. 1: a) The bright field TEM image is shown where an amorphous and a crystalline region are forming an interface. Crystalline region shows distinct parallel lines (or row of atoms), whereas the amorphous region does not show that nature. The corresponding selected area diffraction shows c) halo of rings indicating amorphous nature of region, and c) distinct spot pattern indicating single crystal is providing this response.<br>
@@ -32,11 +40,11 @@ It may so happen that the material has texture and a certain orientation my go m
 2.	The zone axis must be mentioned to observe the diffracting planes.<br>
 3.	As the diffraction occurs in reciprocal space, the units (or the separation distance) is presented in the inverse of length. Note the units are (nm)-1 in Figs. 1b-c.<br>
 4.	The vector length separating the planes is inverse of the interplanar spacing. More details will be presented in the next experiment when we index the planes.<br>
-5.	Another interesting fact associated with the thickness of ring also associates that with the crystallite size and associated residual stress (i.e. the limited size crystal have wider spread (or thicker diffracted circle) in the Bragg’s peak, and at the same time the residual stresses change the mean diffraction peak position, and the diffraction circle appears shifted or thicker).<br>
-<video width="320" height="240" controls>
+5.	Another interesting fact associated with the thickness of ring also associates that with the crystallite size and associated residual stress (i.e. the limited size crystal have wider spread (or thicker diffracted circle) in the Bragg’s peak, and at the same time the residual stresses change the mean diffraction peak position, and the diffraction circle appears shifted or thicker).<br></div>
+<!-- <video width="320" height="240" controls>
   <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
-Video on Electron Diffraction for various materials
+Video on Electron Diffraction for various materials -->
 
 
