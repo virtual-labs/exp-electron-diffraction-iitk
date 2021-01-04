@@ -6,7 +6,7 @@ Diffraction pattern is obtained when the aperture in the TEM is kept at the imag
   Your browser does not support the video tag.
 </video><br>Video on Basic operations of Transmission Electron Microscope (Imaging and Diffraction Pattern)</div>
 </div>
-<div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
+<div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div><br>
 <div style ="text-align: justify;text-justify: inter-word;">
 The TEM microstructure captured via bright field imaging (Fig. aa) can be utilized to obtain the corresponding diffraction pattern. An amorphous region usually results a halo (Fig. 1b). Further, it may be pointed out that the symmetry of the crystal will result diffraction spots (if single crystal, Fig. 1c) or a ring pattern (if multi-crystals, usually nanocrystalline result the same). 
 <img src='images/fig8.PNG'><br/>
