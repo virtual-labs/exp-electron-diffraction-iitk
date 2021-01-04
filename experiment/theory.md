@@ -21,7 +21,7 @@ If we take a BCC crystal, even then, the diffraction pattern will change if the 
 <br>
 <img src='images/8.jpg'>
 <br>
-Fig. 2: a) Diffraction patter of BCC crystal for zone axis of a) [011], and b) [111]. Note the change in the diffraction pattern under these two conditions. Also compare the same with the diffraction pattern observed in BCC [001] provided in Table 1.
+Fig. 2: a) Diffraction pattern of BCC crystal for zone axis of a) [011], and b) [111]. Note the change in the diffraction pattern under these two conditions. Also compare the same with the diffraction pattern observed in BCC [001] provided in Table 1.
 <br>
 As we have learnt that in a single crystal, depending upon the zone axis, we obtain a diffraction pattern (Fig. 3a). But, for a polycrystalline (or nanocrystalline) material, the diffraction occurs from all the crystals, and the beam orientation with respect to individual crystal keeps changing (Fig. 3b). In other words, an overlapping diffraction pattern from those differently oriented crystals is resulted (Fig. 3b). So, the equivalent planes (say family of {110} planes) fall at the locus (equidistant from the transmitted beam) to form a circle (Fig. 3c). So, each family of equivalent planes form a circle (instead of a pattern that is expected from a single crystal), as multiple crystals are now present that diffract the beam. Now, the selection rule allows obtaining the indices of the diffraction planes. 
 <br>
