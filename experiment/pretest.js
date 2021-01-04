@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.The diffraction of a crystal follows which equation?",  ///// Write the question inside double quotes
+      question: "1. The diffraction of a crystal follows which equation?",  ///// Write the question inside double quotes
       answers: {
         a: "Williamson",                  ///// Write the option 1 inside double quotes
         b: "Braggs",                  ///// Write the option 2 inside double quotes
@@ -102,7 +102,7 @@
     },
 
     {
-      question: "2.The selection rule of planes for a simple cubic (SC) crystal is ",  ///// Write the question inside double quotes
+      question: "2. The selection rule of planes for a simple cubic (SC) crystal is ",  ///// Write the question inside double quotes
        answers: {
          a: "all (h,k,l) planes are allowed",                  ///// Write the option 1 inside double quotes
          b: "(h+k+l) is even",                  ///// Write the option 2 inside double quotes
@@ -113,7 +113,7 @@
        correctAnswer: "a"                ///// Write the correct option inside double quotes
      }, 
      {
-      question: "3.The selection rule of planes for a body centered cubic (BCC) crystal is ",  ///// Write the question inside double quotes
+      question: "3. The selection rule of planes for a body centered cubic (BCC) crystal is ",  ///// Write the question inside double quotes
        answers: {
         a: "all (h,k,l) planes are allowed",                  ///// Write the option 1 inside double quotes
         b: "(h+k+l) is even",                  ///// Write the option 2 inside double quotes
@@ -124,7 +124,7 @@
        correctAnswer: "b"                ///// Write the correct option inside double quotes
      }, 
      {
-      question: "4.The selection rule of planes for a face centered cubic (FCC) crystal is",  ///// Write the question inside double quotes
+      question: "4. The selection rule of planes for a face centered cubic (FCC) crystal is",  ///// Write the question inside double quotes
        answers: {
         a: "all (h,k,l) planes are allowed",                  ///// Write the option 1 inside double quotes
         b: "(h+k+l) is even",                  ///// Write the option 2 inside double quotes

@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.The diffraction angles in a TEM range typically between what range?",
+      question: "1. The diffraction angles in a TEM range typically between what range?",
       answers: {
         a: "0-1°",
         b: "5-20°",
@@ -100,7 +100,7 @@
       correctAnswer: "a"
     },
     {
-      question: "2.Ring diffraction pattern is obtained from:",
+      question: "2. Ring diffraction pattern is obtained from:",
       answers: {
         a: "Single crystal material",
         b: "Polycrystalline material",
@@ -109,7 +109,7 @@
       correctAnswer: "b"
     },
     {
-      question: "3.Spotted diffraction pattern is obtained from:",
+      question: "3. Spotted diffraction pattern is obtained from:",
       answers: {
         a: "Single crystal material",
         b: "Polycrystalline material",
@@ -118,7 +118,7 @@
       correctAnswer: "a"
     },
     {
-      question: "4.A halo around central beam (in diffraction mode) is obtained from:",
+      question: "4. A halo around central beam (in diffraction mode) is obtained from:",
       answers: {
         a: "Single crystal material",
         b: "Polycrystalline material",
@@ -128,7 +128,7 @@
       correctAnswer: "c"
     },
     {
-      question: "5.The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/10.jpg'>",
+      question: "5. The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/10.jpg'>",
       answers: {
         a: "[001]",
         b: "[011]",
@@ -137,7 +137,7 @@
       correctAnswer: "b"
     },
     {
-      question: "6.The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/11.jpg'>",
+      question: "6. The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/11.jpg'>",
       answers: {
         a: "[001]",
         b: "[011]",
@@ -146,12 +146,11 @@
       correctAnswer: "c"
     },
     {
-      question: "7.The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/12.png'>",
+      question: "7. The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br/><img src='images/12.png'>",
       answers: {
         a: "[001]",
         b: "[011]",
         c: "[111]",
-        d: " "
       },
       correctAnswer: "a"
     },									                  ///// this line
