@@ -4,7 +4,7 @@ Diffraction pattern is obtained when the aperture in the TEM is kept at the imag
 <video width="320" height="240" controls>
   <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video><br>Video on Basic operations of Transmission Electron Microscope (Imaging and Diffraction Pattern)</div>
+</video><br>Video on electron diffraction for various materials</div>
 </div>
 <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div><br>
 <div style ="text-align: justify;text-justify: inter-word;">
@@ -33,7 +33,7 @@ It may so happen that the material has texture and a certain orientation my go m
 <br>
 <br>
 
-<h3> Notes:</h3>
+Notes:
 <br>
 1.	Note that the dot product of the zone axis (denoted within square brackets) with the diffracting plane (that the brackets are not used) is zero.<br>
 2.	The zone axis must be mentioned to observe the diffracting planes.<br>
