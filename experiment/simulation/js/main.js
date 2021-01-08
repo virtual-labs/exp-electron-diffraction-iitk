@@ -32,7 +32,7 @@ function removeClass(ele, cls) {
         timerId = setTimeout(type, typeSpeed, txt, cur + 1);
     }
     // type("this is test")
-    type("1. Switch on the machine by clicking on power on button@2. Click on load sample to load the sample into the machine@3. Click on any region in the image@4. Click on execute to get the output image");
+    type("1. Switch on the machine by clicking on switch on button@2. Select accelerating voltage@3. Click on Metal button to select metal@4. Click on load sample to load the sample into the machine@5. Click on any region in the image@6. Click on execute to get the output image");
 
 
 //toast
