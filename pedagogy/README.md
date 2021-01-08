@@ -64,10 +64,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Student will be able to learn the electron diffraction from single crystal | Selecting the region or single grain and obtain the zone axis diffraction pattern | Type the question that will assess what student has learnt
-2.| Student will be able to learn diffraction from powder or polycrystalline sample | Selecting the nanocrystalline region and obtain the ring pattern | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
-3.| Student will be able to observe diffraction pattern from deformed material | Selecting the severely deformed region<br>-Obtain the diffraction pattern | 1 Question in detail <br>A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
-4.| Student will be able to diffraction from amorphous material | Selecting the amorphous and obtain the diffraction pattern | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| Student will be able to learn the electron diffraction from single crystal | Selecting the region or single grain and obtain the zone axis diffraction pattern | The following diffraction pattern of BCC crystal would have resulted from a zone axis of?<br><img src ="images/q1.png"><br>a)001<br><b>b)011</b><br>c)111<br>
+2.| Student will be able to learn diffraction from powder or polycrystalline sample | Selecting the nanocrystalline region and obtain the ring pattern | Ring diffraction pattern is obtained from: <br> A.Single crystal material<br> <b>B.Polycrystalline material</b> <br> C.Amorphous material <br>
+3.| Student will be able to observe diffraction pattern from deformed material | Selecting the severely deformed region<br>-Obtain the diffraction pattern | Spotted diffraction pattern is obtained from:<br><b>A. Single crystal material</b><br> B. Polycrystalline material <br> C. Amorphous material<br>  
+4.| Student will be able to diffraction from amorphous material | Selecting the amorphous and obtain the diffraction pattern | A halo around central beam (in diffraction mode) is obtained from <br>A. Single crystal material<br> B. Polycrystalline material <br><b>C. Amorphous material</b><br>
 
 <br>
 
