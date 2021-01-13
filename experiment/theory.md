@@ -32,7 +32,6 @@ Figure 3: a) Diffraction pattern from a single crystal, b) When multiple crystal
 It may so happen that the material has texture and a certain orientation my go missing or any other plane my appear at much higher intensity. Nonetheless, those are special cases of diffraction images and can always be accounted for. You may have noticed that here we are only getting a diffraction (either as a spot or ring pattern or even as a halo), but over intention will also be to ‘quantify’ or ‘index’ the spots to be able to provide the orientation relationship of the features with respect to the matrix. For the same, we need to obtain multiple diffraction patterns (from both: the matrix and the feature), and then obtain the angle after indexing the patterns. The indexing of spot/ring patterns will be taken forward in the next experiment.
 <br>
 <br>
-
 Notes:
 <br>
 1.	Note that the dot product of the zone axis (denoted within square brackets) with the diffracting plane (that the brackets are not used) is zero.<br>
