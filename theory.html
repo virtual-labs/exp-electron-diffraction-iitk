@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta content="" name="description"/>
+    <meta content="" name="author"/>
+    <!-- For iPhone -->
+    <meta name="msapplication-TileColor" content="#4076e0">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#4076e0">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#4076e0">
+    <title>Virtual Labs</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" integrity="sha512-Oy18vBnbSJkXTndr2n6lDMO5NN31UljR8e/ICzVPrGpSud4Gkckb8yUpqhKuUNoE+o9gAb4O/rAxxw1ojyUVzg==" crossorigin="anonymous" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./assets/css/github-markdown.min.css" />
+    <link rel="stylesheet" href="./assets/css/vlabs-style.css" />
+    
+    <script src="./assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
+      integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"
+      integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      h1 {
+      font-size: 1.8rem;
+      }
+      h2 {
+      font-size: 1.4rem;
+      }
+      h3 {
+      font-size: 1.2rem;
+      }
+
+      h2, h3 {
+      font-weight: 800;
+      }
+    </style>
+  </head>
+  <body class="p-0 container-fluid vlabs-page d-flex flex-column justify-content-between">
+    <header class="vlabs-header sticky-top bg-white">
+      <nav class="p-0 navbar navbar-light d-flex align-items-stretch">
+        
+        <button class="navbar-toggler px-4"
+        	    type="button" onclick="toggle()">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="d-flex justify-content-center">        
+          <a href="http://vlab.co.in" class="navbar-brand">
+            <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo">
+          </a>
+        </div>
+        
+        <div id="headerNavbar" class="border-top flex-grow-1 d-flex align-items-center">
+          <ul class="navbar-nav ml-auto text-center d-flex flex-md-row">
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in">HOME</a>
+            </li>
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in/participating-institutes">PARTNERS</a>
+            </li>
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in/contact-us">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="container-fluid flex-fill d-flex flex-column vlabs-page-main">
+      <div class="row flex-grow-1 px-4 d-flex flex-nowrap">
+        <div class="nav flex-column sidebar flex-shrink-0" id="menu">
+            <div>
+              <div class="d-flex">
+                <a href="index.html" class="p-2 ">
+                  Aim
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="theory.html" class="p-2  current-item ">
+                  Theory
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="pretest.html" class="p-2 ">
+                  Pretest
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="procedure.html" class="p-2 ">
+                  Procedure
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="simulation.html" class="p-2 ">
+                  Simulation
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="posttest.html" class="p-2 ">
+                  Posttest
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="references.html" class="p-2 ">
+                  References
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="feedback.html" class="p-2 ">
+                  Feedback
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+        </div>        <div class="vlabs-page-content px-4 pb-4 flex-grow-1 markdown-body">
+          <div class="text-center">
+            <h2 id="electron-diffraction-for-various-materials">Electron Diffraction for various materials</h2>
+        
+          </div>
+            <div><div style="float:left;width:55%;text-align: justify;text-justify: inter-word; margin-right:40px;">
+        Diffraction pattern is obtained when the aperture in the TEM is kept at the image plane of the objective lens. Here, a selected region can be utilized for the electron beam to diffract. It is interesting to point out here that the electron wavelengths are in the order of pm (pico-meters or ~order of 10-12 m). Considering that the interplanar spacing is the order of few Å (or ~0.3 nm), hence, the Bragg’s condition for diffraction (i.e., 2d Sinθ=nλ) is satisfied within 1° of diffraction angles. Or, in other words, the incident beam is almost parallel to the diffracting planes of the crystal. The direction of incident beam with respect to the crystal is provided by zone axis. In other words, zone axis denotes the axis that lies normal to the plane of diffraction. Or, where the dot product of zone axis with that of diffracting planes is zero.</div>
+        <div style="float:left;width:40%;border: solid 1 px black;">
+        <video width="320" height="240" controls>
+          <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video><br>Video on electron diffraction for various materials</div>
+        </div>
+        <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div><br>
+        <div style ="text-align: justify;text-justify: inter-word;">
+        The TEM microstructure captured via bright field imaging (Fig. 1a) can be utilized to obtain the corresponding diffraction pattern. An amorphous region usually results a halo (Fig. 1b). Further, it may be pointed out that the symmetry of the crystal will result diffraction spots (if single crystal, Fig. 1c) or a ring pattern (if multi-crystals, usually nanocrystalline result the same). 
+        <img src='images/fig8.PNG'><br/>
+        Fig. 1: a) The bright field TEM image is shown where an amorphous and a crystalline region are forming an interface. Crystalline region shows distinct parallel lines (or row of atoms), whereas the amorphous region does not show that nature. The corresponding selected area diffraction shows c) halo of rings indicating amorphous nature of region, and c) distinct spot pattern indicating single crystal is providing this response.<br>
+        Depending on the zone axis (see Table 1), i.e. alignment of the incident beam with respect to that of the crystal, will result difference in diffraction pattern. Note the symmetry that is resulted when the type of a crystal changes from simple cubic to body centered cubic to face centered cubic for the same zone axis of [001]. All the planes do not diffract as that depends on the selection rule. Each crystal symmetry allows only selected combination of (hkl) planes to diffract, which is also presented in Table 1.
+        <br><br>
+        Table 1: The diffraction pattern of simple cubic (SC), body centered cubic (BCC) and face centered cubic (FCC) for a zone axis of [001].
+        <br>
+        <img src='images/fig9.jpg'>
+        <br>
+        If we take a BCC crystal, even then, the diffraction pattern will change if the zone axis is changed, and the corresponding plane symmetry can be visualized. For example, if the zone axis is [011], then the diffraction pattern elicits a rectangular arrangement (extended x-axis, and condensed y-axis) as observed in Fig. 2a. On the other hand, if the zone axis is switched to [111] then the comparative diffraction pattern changes its shape (Fig. 2b). Thus, the symmetry of the diffracting plane can be perceived in the diffraction pattern.
+        <br>
+        <img src='images/8.jpg'>
+        <br>
+        Fig. 2: a) Diffraction pattern of BCC crystal for zone axis of a) [011], and b) [111]. Note the change in the diffraction pattern under these two conditions. Also compare the same with the diffraction pattern observed in BCC [001] provided in Table 1.
+        <br>
+        As we have learnt that in a single crystal, depending upon the zone axis, we obtain a diffraction pattern (Fig. 3a). But, for a polycrystalline (or nanocrystalline) material, the diffraction occurs from all the crystals, and the beam orientation with respect to individual crystal keeps changing (Fig. 3b). In other words, an overlapping diffraction pattern from those differently oriented crystals is resulted (Fig. 3b). So, the equivalent planes (say family of {110} planes) fall at the locus (equidistant from the transmitted beam) to form a circle (Fig. 3c). So, each family of equivalent planes form a circle (instead of a pattern that is expected from a single crystal), as multiple crystals are now present that diffract the beam. Now, the selection rule allows obtaining the indices of the diffraction planes. 
+        <br>
+        <img src='images/9.jpg'>
+        <br>
+        Figure 3: a) Diffraction pattern from a single crystal, b) When multiple crystals diffract, then the overlapping diffraction patterns are obtained, and c) the locus of same diffracting planes (but at different orientation) falls as a circle, and can be indexed as ‘ring pattern’.
+        <br>
+        It may so happen that the material has texture and a certain orientation my go missing or any other plane my appear at much higher intensity. Nonetheless, those are special cases of diffraction images and can always be accounted for. You may have noticed that here we are only getting a diffraction (either as a spot or ring pattern or even as a halo), but over intention will also be to ‘quantify’ or ‘index’ the spots to be able to provide the orientation relationship of the features with respect to the matrix. For the same, we need to obtain multiple diffraction patterns (from both: the matrix and the feature), and then obtain the angle after indexing the patterns. The indexing of spot/ring patterns will be taken forward in the next experiment.
+        <br>
+        <br>
+        
+        <p>Notes:
+        <br></p>
+        <ol>
+        <li>   Note that the dot product of the zone axis (denoted within square brackets) with the diffracting plane (that the brackets are not used) is zero.<br></li>
+        <li>   The zone axis must be mentioned to observe the diffracting planes.<br></li>
+        <li>   As the diffraction occurs in reciprocal space, the units (or the separation distance) is presented in the inverse of length. Note the units are (nm)-1 in Figs. 1b-c.<br></li>
+        <li>   The vector length separating the planes is inverse of the interplanar spacing. More details will be presented in the next experiment when we index the planes.<br></li>
+        <li>Another interesting fact associated with the thickness of ring also associates that with the crystallite size and associated residual stress (i.e. the limited size crystal have wider spread (or thicker diffracted circle) in the Bragg’s peak, and at the same time the residual stresses change the mean diffraction peak position, and the diffraction circle appears shifted or thicker).<br></div><!-- <video width="320" height="240" controls>
+        <source src="images/exp7-DP symmetry.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video><br>
+        Video on Electron Diffraction for various materials -->
+        
+        
+        </li>
+        </ol>
+        
+        </div>
+      </div>
+    </div>
+    <footer class="text-light pt-2 vlabs-footer d-flex flex-column">
+      <div class="row px-5">
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Community Links</span>
+          <a href="http://www.sakshat.ac.in/" class="text-light">Sakshat Portal</a>
+          <a href="http://outreach.vlabs.ac.in/" class="text-light">Outreach Portal</a>
+          <a href="http://vlab.co.in/faq" class="text-light">FAQ: Virtual Labs</a>
+        </div>
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Contact Us</span>
+          <span> Phone: General Information: 011-26582050 </span>
+          <span> Email: support@vlabs.ac.in </span>
+        </div>
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Follow Us</span>
+          <div class="social-links">
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #55acee;" href="https://twitter.com/TheVirtualLabs">
+    	  <i class="fa fa-twitter"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #3b5998;" href="https://www.facebook.com/Virtual-Labs-IIT-Delhi-301510159983871/">
+    	  <i class="fa fa-facebook"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #e52d27;" href="https://www.youtube.com/watch?v=asxRaOgk6a0">
+    	  <i class="fa fa-youtube"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #2867B2;" href="https://in.linkedin.com/in/virtual-labs-008ba9136">
+    	  <i class="fa fa-linkedin"></i>
+    	</a>
+          </div>
+        </div>
+      </div>
+      <div class="m-0 py-2 text-center" style='font-family: "Open Sans", sans-serif; background: #212121;'>
+        <a class="text-primary font-weight-bold" href="https://www.gnu.org/licenses/agpl-3.0.en.html"> AGPL 3.0 </a>
+        &nbsp;&amp;&nbsp;
+        <a class="text-primary font-weight-bold" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons (CC BY-NC-SA 4.0) </a>
+      </div>
+    </footer>
+
+      <script src="./assets/js/toggleSidebar.js"></script>
+      
+  </body>
+</html>
