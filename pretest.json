@@ -1,0 +1,37 @@
+[{
+	"question": "1. The diffraction of a crystal follows which equation?",
+	"answers": {
+		"a": "Williamson",
+		"b": "Braggs",
+		"c": "Henry",
+		"d": "Eular"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2. The selection rule of planes for a simple cubic (SC) crystal is ",
+	"answers": {
+		"a": "all (h,k,l) planes are allowed",
+		"b": "(h+k+l) is even",
+		"c": "(h+k+l) is odd",
+		"d": "(h, k, l) are all odd or all even (unmixed) "
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3. The selection rule of planes for a body centered cubic (BCC) crystal is ",
+	"answers": {
+		"a": "all (h,k,l) planes are allowed",
+		"b": "(h+k+l) is even",
+		"c": "(h+k+l) is odd",
+		"d": "(h, k, l) are all odd or all even (unmixed) "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "4. The selection rule of planes for a face centered cubic (FCC) crystal is",
+	"answers": {
+		"a": "all (h,k,l) planes are allowed",
+		"b": "(h+k+l) is even",
+		"c": "(h+k+l) is odd",
+		"d": "(h, k, l) are all odd or all even (unmixed) "
+	},
+	"correctAnswer": "c"
+}]
